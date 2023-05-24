@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/collab-2docs/static/css/main.576fbeef.css",
+    "main.js": "/collab-2docs/static/js/main.771995bf.js",
+    "static/js/336.c52b7d78.chunk.js": "/collab-2docs/static/js/336.c52b7d78.chunk.js",
+    "static/js/379.6dc6173c.chunk.js": "/collab-2docs/static/js/379.6dc6173c.chunk.js",
+    "static/js/54.467c5557.chunk.js": "/collab-2docs/static/js/54.467c5557.chunk.js",
+    "static/js/482.cef32fc8.chunk.js": "/collab-2docs/static/js/482.cef32fc8.chunk.js",
+    "static/js/975.940400fc.chunk.js": "/collab-2docs/static/js/975.940400fc.chunk.js",
+    "static/js/545.7ad81531.chunk.js": "/collab-2docs/static/js/545.7ad81531.chunk.js",
+    "static/js/311.2cbb9d82.chunk.js": "/collab-2docs/static/js/311.2cbb9d82.chunk.js",
+    "static/js/997.91562967.chunk.js": "/collab-2docs/static/js/997.91562967.chunk.js",
+    "static/js/912.f9c4c394.chunk.js": "/collab-2docs/static/js/912.f9c4c394.chunk.js",
+    "static/js/483.873d0330.chunk.js": "/collab-2docs/static/js/483.873d0330.chunk.js",
+    "index.html": "/collab-2docs/index.html",
+    "main.576fbeef.css.map": "/collab-2docs/static/css/main.576fbeef.css.map",
+    "main.771995bf.js.map": "/collab-2docs/static/js/main.771995bf.js.map",
+    "336.c52b7d78.chunk.js.map": "/collab-2docs/static/js/336.c52b7d78.chunk.js.map",
+    "379.6dc6173c.chunk.js.map": "/collab-2docs/static/js/379.6dc6173c.chunk.js.map",
+    "54.467c5557.chunk.js.map": "/collab-2docs/static/js/54.467c5557.chunk.js.map",
+    "482.cef32fc8.chunk.js.map": "/collab-2docs/static/js/482.cef32fc8.chunk.js.map",
+    "975.940400fc.chunk.js.map": "/collab-2docs/static/js/975.940400fc.chunk.js.map",
+    "545.7ad81531.chunk.js.map": "/collab-2docs/static/js/545.7ad81531.chunk.js.map",
+    "311.2cbb9d82.chunk.js.map": "/collab-2docs/static/js/311.2cbb9d82.chunk.js.map",
+    "997.91562967.chunk.js.map": "/collab-2docs/static/js/997.91562967.chunk.js.map",
+    "912.f9c4c394.chunk.js.map": "/collab-2docs/static/js/912.f9c4c394.chunk.js.map",
+    "483.873d0330.chunk.js.map": "/collab-2docs/static/js/483.873d0330.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.576fbeef.css",
+    "static/js/main.771995bf.js"
+  ]
+}
