@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/collab-2docs/static/css/main.576fbeef.css",
-    "main.js": "/collab-2docs/static/js/main.771995bf.js",
+    "main.js": "/collab-2docs/static/js/main.35c546ea.js",
     "static/js/336.c52b7d78.chunk.js": "/collab-2docs/static/js/336.c52b7d78.chunk.js",
     "static/js/379.6dc6173c.chunk.js": "/collab-2docs/static/js/379.6dc6173c.chunk.js",
     "static/js/54.467c5557.chunk.js": "/collab-2docs/static/js/54.467c5557.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/483.873d0330.chunk.js": "/collab-2docs/static/js/483.873d0330.chunk.js",
     "index.html": "/collab-2docs/index.html",
     "main.576fbeef.css.map": "/collab-2docs/static/css/main.576fbeef.css.map",
-    "main.771995bf.js.map": "/collab-2docs/static/js/main.771995bf.js.map",
+    "main.35c546ea.js.map": "/collab-2docs/static/js/main.35c546ea.js.map",
     "336.c52b7d78.chunk.js.map": "/collab-2docs/static/js/336.c52b7d78.chunk.js.map",
     "379.6dc6173c.chunk.js.map": "/collab-2docs/static/js/379.6dc6173c.chunk.js.map",
     "54.467c5557.chunk.js.map": "/collab-2docs/static/js/54.467c5557.chunk.js.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.576fbeef.css",
-    "static/js/main.771995bf.js"
+    "static/js/main.35c546ea.js"
   ]
 }
